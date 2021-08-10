@@ -28,7 +28,7 @@
       <form action="" method="POST" id="user-form">
         <h2>Blissim user form</h2>
         <input type="text" name="username" placeholder="Enter your username" minlength="4" maxlength="25" class="form-control input" required><br><br>
-        <input type="number" name="age" placeholder="Enter your age" min="0" class="form-control input" required><br><br>
+        <input type="number" name="age" placeholder="Enter your age" min="0" max="120" class="form-control input" required><br><br>
         <input type="submit" value="Submit" class="form-control submit"><br><br>
         <h3>Logged in users:</h3>
         <?php
