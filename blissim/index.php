@@ -1,5 +1,4 @@
-Guillaume Potier
-
+<!-- Guillaume Potier -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
