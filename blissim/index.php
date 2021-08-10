@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="custom.scss" type="text/css">
+    <link rel="stylesheet" href="custom.css" type="text/css">
   </head>
   <body>
     <?php
@@ -26,9 +26,9 @@
     <!-- Making the form with name and age inputs and submit button -->
     <div class="form">
       <form action="" method="POST" id="user-form">
-        <h2>User form</h2>
-        <input type="text" name="name" placeholder="Your name" maxlength="25" class="form-control input" required> <br><br>
-        <input type="number" name="age" placeholder="Your age" min="0" class="form-control input" required> <br><br>
+        <h2>Blissim user form</h2>
+        <input type="text" name="name" placeholder="Enter your name" maxlength="25" class="form-control input" required> <br><br>
+        <input type="number" name="age" placeholder="Enter your age" min="0" class="form-control input" required> <br><br>
         <input type="submit" value="Submit" class="form-control submit"><br><br>
         <h3>Logged in users:</h3>
         <?php

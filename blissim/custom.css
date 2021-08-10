@@ -1,7 +1,7 @@
 body {
   padding-top: 60px;
   text-align: center;
-  background-color: #5d8fc9;
+  background-color: #3c5996;
 }
 
 h2,
@@ -13,7 +13,7 @@ h3 {
 form {
   width: 400px;
   margin: auto;
-  background-color: #ebf0fc;
+  background-color: #ffe9e9;
   border-radius: 20px;
   padding: 5px;
 }
@@ -27,7 +27,7 @@ form {
   border-color: white;
 }
 .submit {
-  background: rgb(0, 123, 255);
+  background: #3c5996;
   color: white;
   border-color: transparent;
 }
