@@ -13,10 +13,10 @@
       session_start(); // Initializing the session
       // Creating the User object with name and age attributes
       class User {
-        public $username;
-        public $age;
+        public string $username;
+        public int $age;
 
-        function __construct($username, $age) {
+        function __construct(string $username, int $age) {
           $this->username = $username;
           $this->age = $age;
         }
